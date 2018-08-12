@@ -150,7 +150,7 @@
         margin-left: 0px;
     }
     
-    form input {
+    hearder form input {
         margin-left: 0px;
         border-width: 0;
         border-top-right-radius: 2px;
@@ -315,4 +315,64 @@
     
     .andela-link {
         color: cyan;
+    }
+    
+    .a {
+        margin-top: 50px;
+        height: 600px;
+    }
+    
+    .b {
+        height: 100%;
+        border-style: ridge;
+        border-right-width: 1px;
+        border-color: lightgray;
+        border-left-width: 0;
+        border-top-width: 0;
+        border-bottom-width: 0;
+    }
+    
+    .c {
+        height: 100%;
+        /* text-align: center; */
+        margin: 0 auto;
+    }
+    
+    fieldset {
+        /* width: 400px; */
+    }
+    
+    .form {
+        width: 400px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    
+    .login-label {
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 60px;
+        font-size: 1.5em;
+        font-weight: lighter;
+    }
+    
+    .signin-login {
+        display: block;
+        margin: 10px 0px 10px 0px;
+        min-height: 40px;
+        width: 350px;
+        border-radius: 0px;
+        border-width: 1px;
+        border-style: ridge;
+        padding-left: 10px;
+    }
+    
+    .login-btn {
+        width: 100px;
+        background: teal;
+        color: white;
+    }
+    
+    .signin-label {
+        font-weight: lighter;
     }
