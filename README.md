@@ -2,7 +2,7 @@
 
 Stack Overflow lite is a site that helps developers to ask their questions and allows them to answer other developers questions.
 
-##What You Can Do
+## What You Can Do
 
 You can clone or fork this project form [Here](https://github.com/Eubule/Stack-Overflow-lite)
 
