@@ -376,3 +376,34 @@
     .signin-label {
         font-weight: lighter;
     }
+    
+    .question-answer {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 1.5em;
+        font-weight: lighter;
+        border-style: ridge;
+        border-width: 1px;
+        border-color: rgb(247, 243, 243);
+        border-left-width: 0;
+        border-right-width: 0;
+        border-top-width: 0;
+        margin-bottom: 10px;
+    }
+    
+    .question-body {
+        height: 100px;
+    }
+    
+    .answers-body {
+        margin-bottom: 10px;
+    }
+    
+    .answer-btn {
+        border-style: ridge;
+        border-width: 1px;
+        border-radius: 3px;
+        padding: 10px;
+        background-color: teal;
+        color: white;
+    }
