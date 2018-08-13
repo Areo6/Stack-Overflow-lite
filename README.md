@@ -6,7 +6,7 @@ Stack Overflow lite is a site that helps developers to ask their questions and a
 
 You can clone or fork this project form [Here](https://github.com/Eubule/Stack-Overflow-lite)
 
-##Project Links
+## Project Links
 
 1. [Home page](https://eubule.github.io/Stack-Overflow-lite/)
 2. [Login](https://eubule.github.io/Stack-Overflow-lite/signin)
@@ -15,7 +15,7 @@ You can clone or fork this project form [Here](https://github.com/Eubule/Stack-O
 5. [View question](https://eubule.github.io/Stack-Overflow-lite/view_questions)
 6. [User's activity](https://eubule.github.io/Stack-Overflow-lite/profile)
 
-##Features
+## Features
 
 - User can create an account
 - user can login to their account
@@ -24,11 +24,11 @@ You can clone or fork this project form [Here](https://github.com/Eubule/Stack-O
 - User can can view questions and answers to their questions
 - Users can view their history
 
-##Technologies
+## Technologies
 
 - Html5
 - CSS
 
-##Author
+## Author
 
 - _Eric Malaba_
