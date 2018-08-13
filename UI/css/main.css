@@ -393,6 +393,7 @@
     
     .question-body {
         height: 100px;
+        font-weight: lighter;
     }
     
     .answers-body {
@@ -406,4 +407,15 @@
         padding: 10px;
         background-color: teal;
         color: white;
+    }
+    
+    .title {
+        width: 680px;
+        border-style: ridge;
+        border-radius: 0;
+        border-color: rgb(214, 205, 205);
+        border-width: 1px;
+        font-size: 1em;
+        display: block;
+        padding: 5px;
     }
