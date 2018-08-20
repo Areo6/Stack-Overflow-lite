@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Stack-Overflow-lite
 
-You can use the [editor on GitHub](https://github.com/Eubule/Stack-Overflow-lite/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Stack Overflow lite is a site that helps developers to ask their questions and allows them to answer other developers questions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What You Can Do
 
-### Markdown
+You can clone or fork this project form [Here](https://github.com/Eubule/Stack-Overflow-lite)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project Links
 
-```markdown
-Syntax highlighted code block
+1. [Home page](https://eubule.github.io/Stack-Overflow-lite/)
+2. [Login](https://eubule.github.io/Stack-Overflow-lite/signin)
+3. [Sign up page](https://eubule.github.io/Stack-Overflow-lite/signup)
+4. [Ask question page](https://eubule.github.io/Stack-Overflow-lite/ask-question)
+5. [View question](https://eubule.github.io/Stack-Overflow-lite/view_questions)
+6. [User's activity](https://eubule.github.io/Stack-Overflow-lite/profile)
 
-# Header 1
-## Header 2
-### Header 3
+## Features
 
-- Bulleted
-- List
+- User can create an account
+- user can login to their account
+- User can ask a question
+- User can answer a question
+- User can can view questions and answers to their questions
+- Users can view their history
 
-1. Numbered
-2. List
+## Technologies
 
-**Bold** and _Italic_ and `Code` text
+- Html5
+- CSS
 
-[Link](url) and ![Image](src)
-```
+## Author
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eubule/Stack-Overflow-lite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- _Eric Malaba_
